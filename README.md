@@ -1,11 +1,11 @@
 # 💫 Hi 👋, I'm Poonam Thakur
 **A passionate Web developer || **
 
-Email Me 👉 ✉️ **poonam777rajpoot@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **poonammthakur7@gmail.com ** For Collaboration/Project or Anything Else. 😊😊
 
 - 🌱 **I’m currently learning:** AI\ML || Typescipt || MogoDB
 - 💬 **Ask me about:** Projects|| Tech Support
-- 📫 **How to reach me:** poonam777rajpoot@gmail.com
+- 📫 **How to reach me:** poonammthakur7@gmail.com 
 - 😄 **Pronouns:** poonam
 
 
