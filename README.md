@@ -10,7 +10,7 @@ Email Me 👉 ✉️ **poonammthakur7@gmail.com ** For Collaboration/Project or 
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/poo__4334) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/poonam---thakur) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:poonam777rajpoot@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/poonam___.thaakur) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/poonam---thakur) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:poonam777rajpoot@gmail.com) 
 
 <!-- Snake Game Repo View -->
 
@@ -26,7 +26,7 @@ Email Me 👉 ✉️ **poonammthakur7@gmail.com ** For Collaboration/Project or 
 ![](https://nirzak-streak-stats.vercel.app/?user=Poonam777-code&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Poonam777-code&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
